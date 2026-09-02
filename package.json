@@ -1,0 +1,14 @@
+{
+  "name": "ig-auto-poster-free",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Fully free daily Instagram poster: Claude for content, open-source SVG->PNG rendering, Instagram Graph API directly",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0",
+    "@resvg/resvg-js": "^2.6.2"
+  }
+}
